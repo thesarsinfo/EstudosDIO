@@ -1,0 +1,12 @@
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Domain\bin\Debug\net6.0\Localiza.Frotas.Domain.deps.json
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Domain\bin\Debug\net6.0\Localiza.Frotas.Domain.dll
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Domain\bin\Debug\net6.0\ref\Localiza.Frotas.Domain.dll
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Domain\bin\Debug\net6.0\Localiza.Frotas.Domain.pdb
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\net6.0\Localiza.Frotas.Domain.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\net6.0\Localiza.Frotas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\net6.0\Localiza.Frotas.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\net6.0\Localiza.Frotas.Domain.AssemblyInfo.cs
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\net6.0\Localiza.Frotas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\net6.0\Localiza.Frotas.Domain.dll
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\net6.0\ref\Localiza.Frotas.Domain.dll
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Domain\obj\Debug\net6.0\Localiza.Frotas.Domain.pdb

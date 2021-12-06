@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\net6.0\Localiza.Frotas.Infra.deps.json
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\net6.0\Localiza.Frotas.Infra.dll
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\net6.0\ref\Localiza.Frotas.Infra.dll
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\net6.0\Localiza.Frotas.Infra.pdb
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\net6.0\Localiza.Frotas.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\net6.0\Localiza.Frotas.Infra.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\net6.0\Localiza.Frotas.Infra.AssemblyInfo.cs
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\net6.0\Localiza.Frotas.Infra.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\net6.0\Localiza.Frotas.Infra.dll
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\net6.0\ref\Localiza.Frotas.Infra.dll
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\net6.0\Localiza.Frotas.Infra.pdb
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\net6.0\Localiza.Frotas.Infra.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\net6.0\Localiza.Frotas.Domain.dll
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Infra\bin\Debug\net6.0\Localiza.Frotas.Domain.pdb
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\7-design-Patterns\Localiza.Frotas\Localiza.Frotas.Infra\obj\Debug\net6.0\Localiza.Frotas.Infra.csproj.CopyComplete

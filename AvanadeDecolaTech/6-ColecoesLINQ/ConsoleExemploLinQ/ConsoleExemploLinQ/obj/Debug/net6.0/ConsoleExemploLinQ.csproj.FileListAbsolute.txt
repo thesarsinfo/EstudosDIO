@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\6-ColecoesLINQ\ConsoleExemploLinQ\ConsoleExemploLinQ\bin\Debug\net6.0\ConsoleExemploLinQ.exe
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\6-ColecoesLINQ\ConsoleExemploLinQ\ConsoleExemploLinQ\bin\Debug\net6.0\ConsoleExemploLinQ.deps.json
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\6-ColecoesLINQ\ConsoleExemploLinQ\ConsoleExemploLinQ\bin\Debug\net6.0\ConsoleExemploLinQ.runtimeconfig.json
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\6-ColecoesLINQ\ConsoleExemploLinQ\ConsoleExemploLinQ\bin\Debug\net6.0\ConsoleExemploLinQ.dll
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\6-ColecoesLINQ\ConsoleExemploLinQ\ConsoleExemploLinQ\bin\Debug\net6.0\ref\ConsoleExemploLinQ.dll
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\6-ColecoesLINQ\ConsoleExemploLinQ\ConsoleExemploLinQ\bin\Debug\net6.0\ConsoleExemploLinQ.pdb
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\6-ColecoesLINQ\ConsoleExemploLinQ\ConsoleExemploLinQ\obj\Debug\net6.0\ConsoleExemploLinQ.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\6-ColecoesLINQ\ConsoleExemploLinQ\ConsoleExemploLinQ\obj\Debug\net6.0\ConsoleExemploLinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\6-ColecoesLINQ\ConsoleExemploLinQ\ConsoleExemploLinQ\obj\Debug\net6.0\ConsoleExemploLinQ.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\6-ColecoesLINQ\ConsoleExemploLinQ\ConsoleExemploLinQ\obj\Debug\net6.0\ConsoleExemploLinQ.AssemblyInfo.cs
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\6-ColecoesLINQ\ConsoleExemploLinQ\ConsoleExemploLinQ\obj\Debug\net6.0\ConsoleExemploLinQ.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\6-ColecoesLINQ\ConsoleExemploLinQ\ConsoleExemploLinQ\obj\Debug\net6.0\ConsoleExemploLinQ.dll
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\6-ColecoesLINQ\ConsoleExemploLinQ\ConsoleExemploLinQ\obj\Debug\net6.0\ref\ConsoleExemploLinQ.dll
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\6-ColecoesLINQ\ConsoleExemploLinQ\ConsoleExemploLinQ\obj\Debug\net6.0\ConsoleExemploLinQ.pdb
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\6-ColecoesLINQ\ConsoleExemploLinQ\ConsoleExemploLinQ\obj\Debug\net6.0\ConsoleExemploLinQ.genruntimeconfig.cache
