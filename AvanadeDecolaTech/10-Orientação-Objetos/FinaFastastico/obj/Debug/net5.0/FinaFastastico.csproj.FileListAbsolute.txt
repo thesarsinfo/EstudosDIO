@@ -1,0 +1,16 @@
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\10-Orientação-Objetos\FinaFastastico\bin\Debug\net5.0\FinaFastastico.exe
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\10-Orientação-Objetos\FinaFastastico\bin\Debug\net5.0\FinaFastastico.deps.json
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\10-Orientação-Objetos\FinaFastastico\bin\Debug\net5.0\FinaFastastico.runtimeconfig.json
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\10-Orientação-Objetos\FinaFastastico\bin\Debug\net5.0\FinaFastastico.runtimeconfig.dev.json
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\10-Orientação-Objetos\FinaFastastico\bin\Debug\net5.0\FinaFastastico.dll
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\10-Orientação-Objetos\FinaFastastico\bin\Debug\net5.0\ref\FinaFastastico.dll
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\10-Orientação-Objetos\FinaFastastico\bin\Debug\net5.0\FinaFastastico.pdb
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\10-Orientação-Objetos\FinaFastastico\obj\Debug\net5.0\FinaFastastico.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\10-Orientação-Objetos\FinaFastastico\obj\Debug\net5.0\FinaFastastico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\10-Orientação-Objetos\FinaFastastico\obj\Debug\net5.0\FinaFastastico.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\10-Orientação-Objetos\FinaFastastico\obj\Debug\net5.0\FinaFastastico.AssemblyInfo.cs
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\10-Orientação-Objetos\FinaFastastico\obj\Debug\net5.0\FinaFastastico.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\10-Orientação-Objetos\FinaFastastico\obj\Debug\net5.0\FinaFastastico.dll
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\10-Orientação-Objetos\FinaFastastico\obj\Debug\net5.0\ref\FinaFastastico.dll
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\10-Orientação-Objetos\FinaFastastico\obj\Debug\net5.0\FinaFastastico.pdb
+C:\Users\USER\Documents\Estudos Programacao\EstudosDIO\AvanadeDecolaTech\10-Orientação-Objetos\FinaFastastico\obj\Debug\net5.0\FinaFastastico.genruntimeconfig.cache
