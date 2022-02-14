@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Value Type e Ref Type\demos\bin\Debug\net6.0\demos.exe
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Value Type e Ref Type\demos\bin\Debug\net6.0\demos.deps.json
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Value Type e Ref Type\demos\bin\Debug\net6.0\demos.runtimeconfig.json
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Value Type e Ref Type\demos\bin\Debug\net6.0\demos.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Value Type e Ref Type\demos\bin\Debug\net6.0\ref\demos.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Value Type e Ref Type\demos\bin\Debug\net6.0\demos.pdb
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Value Type e Ref Type\demos\obj\Debug\net6.0\demos.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Value Type e Ref Type\demos\obj\Debug\net6.0\demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Value Type e Ref Type\demos\obj\Debug\net6.0\demos.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Value Type e Ref Type\demos\obj\Debug\net6.0\demos.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Value Type e Ref Type\demos\obj\Debug\net6.0\demos.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Value Type e Ref Type\demos\obj\Debug\net6.0\demos.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Value Type e Ref Type\demos\obj\Debug\net6.0\ref\demos.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Value Type e Ref Type\demos\obj\Debug\net6.0\demos.pdb
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Value Type e Ref Type\demos\obj\Debug\net6.0\demos.genruntimeconfig.cache
