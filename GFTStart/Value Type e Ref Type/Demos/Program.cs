@@ -7,13 +7,12 @@ namespace Demos
 {
     public class Program
     {
+        
         static void Demo12()
         {
             Number a = new(2);
             Number b = new(2);
             WriteLine((a.Numbers == b.Numbers)?"igual":"Desigual");
-
-
         }
         static void Demo11()
         {
@@ -253,8 +252,7 @@ namespace Demos
             return -1;
         }
         public static void Main()
-        {
-           Demo12();
+        {           
             
         }
     }

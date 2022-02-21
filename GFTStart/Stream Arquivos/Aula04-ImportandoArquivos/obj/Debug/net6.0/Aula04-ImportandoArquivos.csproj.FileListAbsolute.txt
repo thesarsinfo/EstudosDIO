@@ -1,0 +1,17 @@
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula04-ImportandoArquivos\bin\Debug\net6.0\Aula04-ImportandoArquivos.exe
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula04-ImportandoArquivos\bin\Debug\net6.0\Aula04-ImportandoArquivos.deps.json
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula04-ImportandoArquivos\bin\Debug\net6.0\Aula04-ImportandoArquivos.runtimeconfig.json
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula04-ImportandoArquivos\bin\Debug\net6.0\Aula04-ImportandoArquivos.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula04-ImportandoArquivos\bin\Debug\net6.0\ref\Aula04-ImportandoArquivos.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula04-ImportandoArquivos\bin\Debug\net6.0\Aula04-ImportandoArquivos.pdb
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula04-ImportandoArquivos\obj\Debug\net6.0\Aula04-ImportandoArquivos.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula04-ImportandoArquivos\obj\Debug\net6.0\Aula04-ImportandoArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula04-ImportandoArquivos\obj\Debug\net6.0\Aula04-ImportandoArquivos.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula04-ImportandoArquivos\obj\Debug\net6.0\Aula04-ImportandoArquivos.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula04-ImportandoArquivos\obj\Debug\net6.0\Aula04-ImportandoArquivos.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula04-ImportandoArquivos\obj\Debug\net6.0\Aula04-ImportandoArquivos.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula04-ImportandoArquivos\obj\Debug\net6.0\ref\Aula04-ImportandoArquivos.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula04-ImportandoArquivos\obj\Debug\net6.0\Aula04-ImportandoArquivos.pdb
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula04-ImportandoArquivos\obj\Debug\net6.0\Aula04-ImportandoArquivos.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula04-ImportandoArquivos\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula04-ImportandoArquivos\obj\Debug\net6.0\Aula04-ImportandoArquivos.csproj.CopyComplete

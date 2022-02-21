@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula01\bin\Debug\net6.0\Aula01.exe
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula01\bin\Debug\net6.0\Aula01.deps.json
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula01\bin\Debug\net6.0\Aula01.runtimeconfig.json
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula01\bin\Debug\net6.0\Aula01.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula01\bin\Debug\net6.0\ref\Aula01.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula01\bin\Debug\net6.0\Aula01.pdb
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula01\obj\Debug\net6.0\Aula01.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula01\obj\Debug\net6.0\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula01\obj\Debug\net6.0\Aula01.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula01\obj\Debug\net6.0\Aula01.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula01\obj\Debug\net6.0\Aula01.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula01\obj\Debug\net6.0\Aula01.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula01\obj\Debug\net6.0\ref\Aula01.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula01\obj\Debug\net6.0\Aula01.pdb
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula01\obj\Debug\net6.0\Aula01.genruntimeconfig.cache

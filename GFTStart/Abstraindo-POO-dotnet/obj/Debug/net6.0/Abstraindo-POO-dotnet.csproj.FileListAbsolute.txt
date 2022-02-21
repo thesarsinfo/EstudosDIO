@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Abstraindo-POO-dotnet\bin\Debug\net6.0\Abstraindo-POO-dotnet.exe
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Abstraindo-POO-dotnet\bin\Debug\net6.0\Abstraindo-POO-dotnet.deps.json
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Abstraindo-POO-dotnet\bin\Debug\net6.0\Abstraindo-POO-dotnet.runtimeconfig.json
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Abstraindo-POO-dotnet\bin\Debug\net6.0\Abstraindo-POO-dotnet.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Abstraindo-POO-dotnet\bin\Debug\net6.0\ref\Abstraindo-POO-dotnet.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Abstraindo-POO-dotnet\bin\Debug\net6.0\Abstraindo-POO-dotnet.pdb
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Abstraindo-POO-dotnet\obj\Debug\net6.0\Abstraindo-POO-dotnet.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Abstraindo-POO-dotnet\obj\Debug\net6.0\Abstraindo-POO-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Abstraindo-POO-dotnet\obj\Debug\net6.0\Abstraindo-POO-dotnet.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Abstraindo-POO-dotnet\obj\Debug\net6.0\Abstraindo-POO-dotnet.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Abstraindo-POO-dotnet\obj\Debug\net6.0\Abstraindo-POO-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Abstraindo-POO-dotnet\obj\Debug\net6.0\Abstraindo-POO-dotnet.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Abstraindo-POO-dotnet\obj\Debug\net6.0\ref\Abstraindo-POO-dotnet.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Abstraindo-POO-dotnet\obj\Debug\net6.0\Abstraindo-POO-dotnet.pdb
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Abstraindo-POO-dotnet\obj\Debug\net6.0\Abstraindo-POO-dotnet.genruntimeconfig.cache

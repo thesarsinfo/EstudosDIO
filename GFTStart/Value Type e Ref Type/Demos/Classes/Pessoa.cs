@@ -5,6 +5,12 @@ namespace Demos.Classes
         public int Age { get; set; }
         public string Name { get; set; } 
         public string Document { get; set; }
+        public void PeopleInit(int agePeople,string name, string document)
+        {
+            this.Age = agePeople;
+            this.Name = name;
+            this.Document = document;
+        }
 
         public People Clone()
         {

@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula02FileSystemWatch\bin\Debug\net6.0\Aula02FileSystemWatch.exe
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula02FileSystemWatch\bin\Debug\net6.0\Aula02FileSystemWatch.deps.json
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula02FileSystemWatch\bin\Debug\net6.0\Aula02FileSystemWatch.runtimeconfig.json
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula02FileSystemWatch\bin\Debug\net6.0\Aula02FileSystemWatch.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula02FileSystemWatch\bin\Debug\net6.0\ref\Aula02FileSystemWatch.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula02FileSystemWatch\bin\Debug\net6.0\Aula02FileSystemWatch.pdb
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula02FileSystemWatch\obj\Debug\net6.0\Aula02FileSystemWatch.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula02FileSystemWatch\obj\Debug\net6.0\Aula02FileSystemWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula02FileSystemWatch\obj\Debug\net6.0\Aula02FileSystemWatch.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula02FileSystemWatch\obj\Debug\net6.0\Aula02FileSystemWatch.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula02FileSystemWatch\obj\Debug\net6.0\Aula02FileSystemWatch.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula02FileSystemWatch\obj\Debug\net6.0\Aula02FileSystemWatch.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula02FileSystemWatch\obj\Debug\net6.0\ref\Aula02FileSystemWatch.dll
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula02FileSystemWatch\obj\Debug\net6.0\Aula02FileSystemWatch.pdb
+C:\Users\USER\OneDrive\Documents\Estudos Programacao\EstudosDIO\GFTStart\Stream Arquivos\Aula02FileSystemWatch\obj\Debug\net6.0\Aula02FileSystemWatch.genruntimeconfig.cache

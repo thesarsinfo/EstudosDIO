@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nVRrbTOVUzo2Fob4Ij5IKaYVkm5nHooWgtIOMNFyugQbjIfV/jUSAFztI1fYgX/SddTi7P7juPqgci2UZP4jRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\OneDrive\\Documents\\Estudos Programacao\\EstudosDIO\\GFTStart\\Stream Arquivos\\Aula04-ImportandoArquivos\\Aula04-ImportandoArquivos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
